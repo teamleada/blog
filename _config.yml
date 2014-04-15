@@ -1,0 +1,7 @@
+pygments: true
+lsi: false
+markdown: redcarpet
+exclude:
+  - readme.md
+  - Gemfile
+  - Gemfile.lock
