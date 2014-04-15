@@ -1,6 +1,6 @@
+permalink: /:title
 pygments: true
 lsi: false
-auto: true
 markdown: redcarpet
 exclude:
   - readme.md
