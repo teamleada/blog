@@ -8,21 +8,6 @@ html lang='en'
 
     | {% include navigation/nav-main.html %}
 
-    | {% if page.skip_about != true %}
-    |   {% include about.html %}
-    | {% endif %}
-
-    | {% if page.is_cs_course %}
-    |   {% include other-cs-course.html %}
-    | {% endif %}
-
-    | {% if page.is_e98 %}
-    |   {% include e98/navigation.html %}
-    | {% endif %}
-
-    | {% if page.full_page %}
-    |   {{ content }}
-    | {% else %}
     .container.bs-docs-container
       .row
         | {{ content }}
