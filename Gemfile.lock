@@ -1,18 +1,3 @@
-GIT
-  remote: git://github.com/negativetwelve/jekyll.git
-  revision: 417b31ee85aa49ca2028bbe33207a11bb9aa0c3f
-  specs:
-    jekyll (1.0.2)
-      classifier (~> 1.3)
-      colorator (~> 0.1)
-      commander (~> 4.1.3)
-      directory_watcher (~> 1.4.1)
-      kramdown (~> 1.0.2)
-      liquid (~> 2.3)
-      maruku (~> 0.5)
-      pygments.rb (~> 0.5.0)
-      safe_yaml (~> 0.7.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -56,6 +41,17 @@ GEM
     highline (1.6.21)
     hike (1.2.3)
     i18n (0.6.11)
+    jekyll (1.1.1)
+      classifier (~> 1.3)
+      colorator (~> 0.1)
+      commander (~> 4.1.3)
+      directory_watcher (~> 1.4.1)
+      kramdown (~> 1.0.2)
+      liquid (~> 2.3)
+      maruku (~> 0.5)
+      pygments.rb (~> 0.5.0)
+      redcarpet (~> 2.2.2)
+      safe_yaml (~> 0.7.0)
     json (1.8.1)
     kramdown (1.0.2)
     liquid (2.5.0)
@@ -95,6 +91,7 @@ GEM
       thor (>= 0.18.1, < 2.0)
     rake (10.3.2)
     rdiscount (2.1.7)
+    redcarpet (2.2.2)
     safe_yaml (0.7.1)
     slim (2.0.3)
       temple (~> 0.6.6)
@@ -125,7 +122,7 @@ PLATFORMS
 DEPENDENCIES
   colored
   directory_watcher (= 1.4.1)
-  jekyll!
+  jekyll
   liquid (= 2.5.0)
   rails-rename (~> 1.0.0)
   rails-reveal-js (~> 2.6.1.2)
