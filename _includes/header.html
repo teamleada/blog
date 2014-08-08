@@ -1,9 +1,29 @@
-<div id="blog-header">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <h1 class="page-header">The Leada Blog</h1>
-      </div>
-    </div>
-  </div>
-</div>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Leada: Practice Data Science, Get Recruited">
+<meta name="author" content="Leada">
+
+<title>
+  {% if page.title == "The Leada Blog - Company News, Tips, and Features" %}
+    {{ page.title }}
+  {% else if %}
+    {{ page.title }} - Leada Blog
+  {% endif %}
+</title>
+
+<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900' rel='stylesheet' type='text/css'>
+
+<link href="{{ page.base_url }}/assets/css/bootstrap.css" rel="stylesheet">
+<link href="{{ page.base_url }}/assets/css/main.css" rel="stylesheet">
+<link href="{{ page.base_url }}/assets/css/bootstrap-overrides.css" rel="stylesheet">
+
+<script src="{{ page.base_url }}/assets/js/jquery-1.8.3.min.js"></script>
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="{{ page.base_url }}assets/js/html5shiv.js"></script>
+  <script src="{{ page.base_url }}assets/js/respond.min.js"></script>
+<![endif]-->
+
+{% include analytics.html %}
+
