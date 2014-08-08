@@ -24,6 +24,10 @@ end
 desc "deploy site"
 task :deploy do
   puts "Getting ready to deploy."
+  if Dir["#{deploy_dir}"].empty?
+    system("mkdir #{deploy_dir}")
+  end
+
   (Dir["#{deploy_dir}/*"]).each { |f| rm_rf(f) }
   puts "Generating site from source."
   cd "#{deploy_dir}" do
