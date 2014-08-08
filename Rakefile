@@ -34,6 +34,7 @@ task :deploy do
     system("git init")
     system("git remote add origin git@github.com:teamleada/blog.git")
     system("git pull")
+    system("git checkout -b gh-pages")
     system("git checkout -f gh-pages")
   end
   Rake::Task[:generate].execute
