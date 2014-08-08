@@ -1,9 +1,14 @@
 source 'https://rubygems.org'
 
-group :development do
-  gem "github-pages"
-  gem "tzinfo-data"
+ruby '2.1.2'
 
-  gem "foreman",  "~> 0.63"
-  gem "serve",    "~> 1.5"
-end
+gem 'liquid', '2.5.0'
+gem 'jekyll', git: 'git://github.com/negativetwelve/jekyll.git'
+gem 'rdiscount'
+gem 'colored'
+gem 'directory_watcher', '1.4.1'
+gem 'slim'
+
+gem 'rails-reveal-js', '~> 2.6.1.2'
+gem 'rails-rename', '~> 1.0.0'
+
