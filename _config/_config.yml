@@ -1,7 +1,7 @@
 permalink: /:title
 url: http://blog.teamleada.com
 destination: _deploy
-pygments: true
+highlighter: pygments
 lsi: false
 markdown: kramdown
 sass:
