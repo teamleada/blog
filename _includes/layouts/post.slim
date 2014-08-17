@@ -1,5 +1,15 @@
 .container.full-container.card-container
-  .row
-    .col-md-12
-      | {{ content }}
-
+  .row.card
+    | {% assign author = site.leadas[page.author] %}
+    .col-md-2
+      .author-info
+        img src="/assets/images/leadas/{{ author.photo }}" class="author-image"
+        h4
+          | {{ author.name }}
+      a href="{{ page.url }}" {{ page.date | date_to_string }}<br>
+      a href="{{ page.url }}#comment" Leave a comment
+    .col-md-10
+      h1
+        | {{ page.title }}
+      .post-content
+        | {{ content }}
