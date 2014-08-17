@@ -3,11 +3,13 @@
 @import "basecoat/normalize";
 
 @import "bootstrap/bootstrap";
-@import "bootstrap/bootstrap_overrides";
+@import "bootstrap/bootstrap-overrides";
 
 @import "basecoat/colors";
 @import "basecoat/config";
 @import "basecoat/base";
+
+@import "mixins/mobile-mixins";
 
 @import "components/buttons";
 @import "components/navigation";
