@@ -1,4 +1,4 @@
-permalink: /:title
+permalink: date
 url: http://blog.teamleada.com
 destination: _deploy
 highlighter: pygments
