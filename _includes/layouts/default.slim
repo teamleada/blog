@@ -3,14 +3,13 @@ doctype html
 html lang='en'
   head
     | {% include header.html %}
-  body
+  body.main-background
     a.sr-only href="#content" Skip Navigation
 
     | {% convert navigation/nav-main.slim %}
 
-    .container.bs-docs-container
-      .row
-        | {{ content }}
+    #page-container
+      | {{ content }}
 
     footer.bs-footer role="contentinfo"
       p.copyright
