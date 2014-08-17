@@ -7,7 +7,7 @@
         h4
           | {{ author.name }}
       a href="{{ page.url }}" {{ page.date | date_to_string }}<br>
-      a href="{{ page.url }}#comment" Leave a comment
+      a href="{{ page.url }}#comments" data-disqus-identifier="{{ page.path | split:'/' | last | cgi_escape }}" Leave a comment
     .col-md-10
       h1
         | {{ page.title }}
