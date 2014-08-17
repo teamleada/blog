@@ -4,6 +4,8 @@ destination: _deploy
 pygments: true
 lsi: false
 markdown: kramdown
+sass:
+  sass_dir: _sass
 exclude:
   - readme.md
   - Gemfile
