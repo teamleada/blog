@@ -1,6 +1,7 @@
 ---
-title: Our Mission
+title: $777.53 To Start A Company
 layout: post
+author: brian
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tristique rutrum suscipit. Nam at ornare arcu, rutrum congue nibh. Curabitur mattis mauris dolor, vitae gravida nulla molestie id. Sed bibendum imperdiet lacus eu placerat. Mauris consequat viverra leo eu gravida. Duis sollicitudin ultrices ligula quis lobortis. Aenean id ornare nisi. Nulla sit amet enim sed enim aliquam feugiat non non felis. Nulla facilisi.
