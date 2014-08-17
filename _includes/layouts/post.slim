@@ -13,3 +13,5 @@
         | {{ page.title }}
       .post-content
         | {{ content }}
+      #comments
+        | {% convert comments.slim %}
