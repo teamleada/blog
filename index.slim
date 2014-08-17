@@ -12,7 +12,7 @@ title: The Leada Blog - Company News, Tips, and Features
         img src="/assets/images/leadas/{{ author.photo }}" class="author-image"
         h4 {{ author.name }}
       a href="{{ post.url }}" {{ post.date | date_to_string }}<br>
-      a href="{{ post.url }}#comment" Leave a comment
+      a href="{{ post.url }}#comments" data-disqus-identifier="{{ post.path | split:'/' | last | cgi_escape }}" Leave a comment
     .col-md-10
       h1
         a href="{{ post.url }}" {{ post.title }}
