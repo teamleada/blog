@@ -29,6 +29,8 @@ we were given:
 
 While in most cases we had the foundation to figure what we needed out, we didn't understand why there was such a large disparity between what you learn in school and actual work. This knowledge gap, between the skills that employers require and the theoretical education we were “empowered” with at our University, isn’t just a problem for Statistics majors, and it isn’t specific to Cal.
 
+<!--more-->
+
 What if you could bring out the skills that employers require through projects that students could complete? Companies would be able to better qualify their candidates and students would gain experience completing industry-like work. It was a simple win-win situation that we were compelled to create.
 
 So what does a M.Eng. in Data Science dropout, a Computer Science & Statistics double major, and a Business & Statistics double major do but create this for data science? An industry with a 1.75 million person talent gap by 2018.[^mckinsey-report]
