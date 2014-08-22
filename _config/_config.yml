@@ -4,6 +4,7 @@ destination: _deploy
 highlighter: pygments
 lsi: false
 markdown: kramdown
+excerpt_separator: "<!--more-->"
 sass:
   sass_dir: _sass
   style: :compressed
