@@ -31,6 +31,8 @@ This knowledge gap, between the skills that employers require and the theoretica
 
 What if you could grow the skills that employers require through projects that students could complete? Companies would be able to better qualify job candidates and students would gain experience completing industry-like work. It’s the obvious win-win situation that we were compelled to create.
 
+<!--more-->
+
 So what does a Masters in Data Science, a Computer Science & Statistics double major, and a Business & Statistics double major do but create this for data science? An industry desperate for an infusion of people and that McKinsey predicts will have a 1.75 million shortfall in data science talent by 2018.[^mckinsey-report]
 
 <br/>
