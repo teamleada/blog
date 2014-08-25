@@ -57,7 +57,6 @@ But is there actually a <strong>talent</strong> gap? We believe data science is 
 So what is Leada? Leada is a recruiting platform for data science. Leada is the means by which you can transform your knowledge into employable talent.  We are Leada.  We want to bridge the gap between your knowledge and your potential skills by creating data challenges for people like you who want to become data scientists.
 
 <br/>
-
 <hr>
 
 [^mckinsey-report]: McKinsey Report, Big Data: The next frontier for innovation, competition, and productivity
