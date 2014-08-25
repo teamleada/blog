@@ -6,7 +6,7 @@ author: brian
 published: true
 ---
 
-The genesis for Leada began in the Spring of 2014. As recent graduates of UC Berkeley going into industry, we faced an alarming problem. We realized we were quite familiar with:
+The genesis for Leada began in February of 2014. As Statistics majors at UC Berkeley we were intimately familiar with equations such as these:
 
 <br/>
 
@@ -16,8 +16,7 @@ The genesis for Leada began in the Spring of 2014. As recent graduates of UC Ber
 
 <br/>
 
-But in our jobs, problems that required an understanding of the above were nowhere to be found. Instead
-we were given:
+But our future jobs presented us with problems such as the one below:
 
 <br/>
 
@@ -27,13 +26,12 @@ we were given:
 
 <br/>
 
-While in most cases we had the foundation to figure what we needed out, we didn't understand why there was such a large disparity between what you learn in school and actual work. This knowledge gap, between the skills that employers require and the theoretical education we were “empowered” with at our University, isn’t just a problem for Statistics majors, and it isn’t specific to Cal.
 
-<!--more-->
+This knowledge gap, between the skills that employers require and the theoretical education we received from our ivory tower, isn’t just a problem for statistics majors or Cal grads.
 
-What if you could bring out the skills that employers require through projects that students could complete? Companies would be able to better qualify their candidates and students would gain experience completing industry-like work. It was a simple win-win situation that we were compelled to create.
+What if you could grow the skills that employers require through projects that students could complete? Companies would be able to better qualify job candidates and students would gain experience completing industry-like work. It’s the obvious win-win situation that we were compelled to create.
 
-So what does a M.Eng. in Data Science dropout, a Computer Science & Statistics double major, and a Business & Statistics double major do but create this for data science? An industry with a 1.75 million person talent gap by 2018.[^mckinsey-report]
+So what does a Masters in Data Science, a Computer Science & Statistics double major, and a Business & Statistics double major do but create this for data science? An industry desperate for an infusion of people and that McKinsey predicts will have a 1.75 million shortfall in data science talent by 2018.[^mckinsey-report]
 
 <br/>
 
@@ -43,7 +41,7 @@ So what does a M.Eng. in Data Science dropout, a Computer Science & Statistics d
 
 <br/>
 
-But is it really a <strong>talent</strong> gap? We believe data science is an interdisciplinary subject and can be tackled from a diverse set of backgrounds (Physics, Biology, Business, etc.). We believe that the talent exists. The skill, however, does not and when individuals who have the talent but not the skill complete our challenges; we are filling the shortfall in data science hires.
+But is there actually a <strong>talent</strong> gap? We believe data science is an interdisciplinary subject and can be tackled from a variety of backgrounds (including physics, math, economics, and business). We believe that the talent exists. We also know that the skills are missing. We know individuals who have the talent but not the skills and we know that Leada can build the skills that you need. Leada can fill the shortfall in data science hires.
 
 <br/>
 
@@ -56,10 +54,9 @@ But is it really a <strong>talent</strong> gap? We believe data science is an in
 
 <br/>
 
-What is Leada? Leada is a recruiting platform for data science. We want to fill the gap in data science talent by creating industry data challenges for people who have the drive to become data scientists but lack the skills.
+So what is Leada? Leada is a recruiting platform for data science. Leada is the means by which you can transform your knowledge into employable talent.  We are Leada.  We want to bridge the gap between your knowledge and your potential skills by creating data challenges for people like you who want to become data scientists.
 
 <br/>
-
 <hr>
 
 [^mckinsey-report]: McKinsey Report, Big Data: The next frontier for innovation, competition, and productivity
