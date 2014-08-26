@@ -1,3 +1,6 @@
+body {
+}
+
 .author-info {
   margin-top: 20px;
 }
@@ -10,7 +13,22 @@
   margin-top: 40px;
 }
 
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Merriweather", serif;
+}
+
+ul {
+  font-family: "Merriweather", serif;
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 0 0 30px;
+}
+
 p {
+  font-family: "Merriweather", serif;
   font-size: 18px;
   line-height: 1.5;
   margin: 0 0 30px;
