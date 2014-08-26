@@ -42,9 +42,9 @@ I'm not really sure what "data science" means.  It seems to be a term first prom
 
 I've never been able to pick lasting papers in the past, so don't trust me now, but here are a few:
 
-Rendle's "Factorization Machines"
-Wang et al. "Bayesian optimization in high dimensions via random embeddings"
-Dean et al. "Fast, Accurate Detection of 100,000 Object Classes on a Single Machine"
+* Rendle's "Factorization Machines"
+* Wang et al. "Bayesian optimization in high dimensions via random embeddings"
+* Dean et al. "Fast, Accurate Detection of 100,000 Object Classes on a Single Machine"
 
 <strong>Q6: Do you think Deep learning/Neural Networks is the future? (36 Up-votes)</strong>
 
