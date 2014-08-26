@@ -7,3 +7,5 @@ _site
 *.swo
 
 .DS_Store
+
+.sass-cache/
